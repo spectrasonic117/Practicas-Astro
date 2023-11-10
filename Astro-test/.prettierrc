@@ -1,0 +1,8 @@
+overrides:
+  - files: "**/*.astro"
+    options:
+      # parser: "astro"
+      tabWidth: 4
+      useTabs: true
+      bracketSpacing: true
+      singleAttributePerLine: false
